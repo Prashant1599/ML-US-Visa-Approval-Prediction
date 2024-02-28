@@ -9,6 +9,7 @@ The act also protects US workers against adverse impacts on the workplace and ma
 * last year, the number of employees was huge, so OFLC needs Machine learning models to shortlist visa applicants based on their previous data.
 
 #### Dataset is taken from Kaggle and stored in GitHub as well as inside the notebook directory 
+https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 ## Features in Datasets:
 The data contains the different attributes of the employee and the employer. The detailed data dictionary is given below.
