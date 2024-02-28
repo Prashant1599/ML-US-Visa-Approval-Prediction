@@ -1,8 +1,4 @@
-from US_Visa.logger import logging
-from US_Visa.exception import USvisaException
-import sys
+from US_Visa.pipeline.train_pipeline import TrainPipeline 
 
-try:
-    a = 1/ "10"
-except Exception as e:
-    raise USvisaException(e, sys) from e
+pipeline = TrainPipeline()
+pipeline.run_pipeline()
